@@ -22,13 +22,18 @@ Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 
+### Find out the ip address of the attackers system
+<img width="384" height="255" alt="image" src="https://github.com/user-attachments/assets/955d165b-43c2-4f96-ad98-f53723d3ead5" />
 
-## OUTPUT:
+### Invoke msfconsole:
+<img width="397" height="379" alt="image" src="https://github.com/user-attachments/assets/673ab994-247f-473a-b52d-84de4fb4ef24" />
+
+### all available commands you can use inside msfconsole.
+<img width="461" height="232" alt="image" src="https://github.com/user-attachments/assets/a443bef4-af9b-4012-8f90-a0801a45ee61" />
+
+### Port Scanning:
 
 
-
-
-## OUTPUT:
 
 
 
