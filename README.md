@@ -32,9 +32,21 @@ Open terminal and try execute some kali linux commands
 <img width="461" height="232" alt="image" src="https://github.com/user-attachments/assets/a443bef4-af9b-4012-8f90-a0801a45ee61" />
 
 ### Port Scanning:
+<img width="353" height="126" alt="image" src="https://github.com/user-attachments/assets/8ea4c2dc-fc32-4720-b75f-1aa5c2511db1" />
+
+### scan the targets with the command db_nmap:
+<img width="389" height="87" alt="image" src="https://github.com/user-attachments/assets/fbdf1e0d-f36d-4645-a47f-468a0aaabaed" />
+
+### list all the scanner modules.
+<img width="296" height="142" alt="image" src="https://github.com/user-attachments/assets/e6b42de0-de7e-468d-ae49-bc9a2587821b" />
 
 
 
+### search name:Microsoft type:exploit
+<img width="402" height="239" alt="image" src="https://github.com/user-attachments/assets/98d13d05-27ae-46f9-8e0d-fad6139ca1f4" />
+
+ ### information regarding a module or platform
+<img width="386" height="182" alt="image" src="https://github.com/user-attachments/assets/005b07fa-43eb-402f-a252-4a8b6b911338" />
 
 
 
