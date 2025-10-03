@@ -49,21 +49,21 @@ Open terminal and try execute some kali linux commands
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/005b07fa-43eb-402f-a252-4a8b6b911338" />
 
 ### look for an auxiliary module to scan and enumerate the MySQL database
-<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/629f5dec-6db2-47f0-b81d-faf3057e0320" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/629f5dec-6db2-47f0-b81d-faf3057e0320" />
 
 ###  to scan MySQL version detail
-<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/416bf35b-bdaf-49ca-b2fe-a78a71fad43a" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/416bf35b-bdaf-49ca-b2fe-a78a71fad43a" />
 
 
 ### set rhosts command to set the parameter and run the module
-<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/978f2ff9-9e54-4e67-ae95-5b03b789e734" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/978f2ff9-9e54-4e67-ae95-5b03b789e734" />
 
 ### brute force MySQL root account via Metasploit's
-<img width="1000" height="1200" alt="image" src="https://github.com/user-attachments/assets/874cc71e-0edd-441f-9e18-2e1032b36816" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/874cc71e-0edd-441f-9e18-2e1032b36816" />
 
 
 ### PASS_FILE parameter 
-<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/71c5ee6d-1292-4c2c-a758-c82730d4a9cc" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/71c5ee6d-1292-4c2c-a758-c82730d4a9cc" />
 
 
 
