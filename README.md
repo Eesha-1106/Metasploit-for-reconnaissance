@@ -48,6 +48,9 @@ Open terminal and try execute some kali linux commands
  ### information regarding a module or platform
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/005b07fa-43eb-402f-a252-4a8b6b911338" />
 
+### MYSQL enumeration:
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/949ab0f6-d04d-4a7b-a8ea-af326d4f6799" />
+
 ### look for an auxiliary module to scan and enumerate the MySQL database
 <img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/629f5dec-6db2-47f0-b81d-faf3057e0320" />
 
